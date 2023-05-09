@@ -3,7 +3,7 @@
   "displayName": "balayya",
   "description": "Jai balayya",
   "publisher": "RohitD",
-  "version": "0.0.3",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -50,6 +50,5 @@
     "webpack": "^5.76.3",
     "webpack-cli": "^5.0.1",
     "@vscode/test-electron": "^2.3.0"
-    
   }
 }
