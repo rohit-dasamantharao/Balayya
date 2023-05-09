@@ -3,7 +3,7 @@
   "displayName": "balayya",
   "description": "Jai balayya",
   "publisher": "RohitD",
-  "version": "1.0.4",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -12,7 +12,6 @@
   ],
   "activationEvents": [],
   "main": "./dist/extension.js",
-  "browser": "./dist/web/extension.js",
   "contributes": {
     "commands": [
       {
