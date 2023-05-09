@@ -3,7 +3,7 @@
   "displayName": "balayya",
   "description": "Jai balayya",
   "publisher": "RohitD",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.77.0"
   },
